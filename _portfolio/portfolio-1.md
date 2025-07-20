@@ -1,6 +1,6 @@
 ---
 title: "eDisk Chemistry Website"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/eDisk_website.png' width="500"/>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/eDisk_website.png' width='500'/>"
 collection: portfolio
 ---
 
