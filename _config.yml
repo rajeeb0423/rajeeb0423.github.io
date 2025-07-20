@@ -41,6 +41,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  adsabs           : "https://ui.adsabs.harvard.edu/public-libraries/3qbzCM9oTc61w3pYp7-StQ"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
