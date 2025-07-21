@@ -80,10 +80,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  coauthor:
+    title: 'Co-authored Papers'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'First Authored Papers'    
   conferences:
     title: 'Conference Papers'
 
