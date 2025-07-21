@@ -1,8 +1,8 @@
 ---
 title: "Constraining the Chemical Signatures and the Outburst Mechanism of the Class 0 Protostar HOPS 383"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: First Authored Papers
+permalink: 'https://ui.adsabs.harvard.edu/abs/2020ApJ...904...78S/abstract'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-03
 venue: 'The Astrophysical Journal'
