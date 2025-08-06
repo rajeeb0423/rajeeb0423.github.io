@@ -33,10 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rajeeb.sharma423@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: ads
+    icon_pack: ai
+    url:  https://ui.adsabs.harvard.edu/public-libraries/3qbzCM9oTc61w3pYp7-StQ
   - icon: brands/github
     url: https://github.com/rajeeb0423
   - icon: brands/linkedin
