@@ -47,13 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Star and Planet Formation
+  - Astrochemistry
+  - Radio Astronomy
+  - Protoplanetary Disks
+  - Embedded Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Astrophysics
+    institution: Niels Bohr Institute, University of Copenhagen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
