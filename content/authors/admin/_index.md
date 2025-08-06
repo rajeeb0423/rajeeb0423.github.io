@@ -33,8 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rajeeb.sharma423@gmail.com'
     label: E-mail Me
-  - icon: "custom/ads"
-    icon_pack: ai
+  - icon: academicons/ads
     url:  https://ui.adsabs.harvard.edu/public-libraries/3qbzCM9oTc61w3pYp7-StQ
   - icon: brands/github
     url: https://github.com/rajeeb0423
