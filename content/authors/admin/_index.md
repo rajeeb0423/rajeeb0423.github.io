@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rajeeb.sharma423@gmail.com'
     label: E-mail Me
-  - icon: ads
+  - icon: "custom/ads"
     icon_pack: ai
     url:  https://ui.adsabs.harvard.edu/public-libraries/3qbzCM9oTc61w3pYp7-StQ
   - icon: brands/github
@@ -43,7 +43,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0549-544X
 
 interests:
   - Star and Planet Formation
