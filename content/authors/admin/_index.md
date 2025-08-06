@@ -25,7 +25,7 @@ role: Astronomer, Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Niels Bohr Institute, University of Copenhagen
-    url: https://nbi.ku.dk/
+    url: https://nbi.ku.dk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
