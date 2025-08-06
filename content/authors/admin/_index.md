@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/rajeeb0423
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/rajeebsharma/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
