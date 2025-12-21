@@ -15,35 +15,31 @@ status:
   icon: "☕️"
 role: Senior AI Research Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Welcome to my page. I am a PhD graduate from Niels Bohr Institute, University of Copenhagen
 
 affiliations:
   - name: Meta AI
     url: https://ai.meta.com/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  - icon: "at-symbol"
+    url: "mailto:rajeeb.sharma423@gmail.com"
+    label: "E-mail Me"
+  - icon: "brands/github"
+    url: "https://github.com/rajeeb0423"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/rajeebsharma/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=vrK_BicAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-0549-544X"
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - "Star and Planet Formation"
+  - "Data Science"
+  - "ISM"
+  - "Protoplanetary Disks"
+  - "Big Data"
 
 education:
   - degree: PhD Computer Science
