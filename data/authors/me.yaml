@@ -42,7 +42,7 @@ interests:
   - "Big Data"
 
 education:
-  - degree: "PhD Astrophysics"
+  - degree: "PhD in Astrophysics"
     institution: "Niels Bohr Institute, University of Copenhagen"
     start: "2021-07-01"
     end: "2025-02-05"
@@ -50,15 +50,18 @@ education:
     button:
       text: "Read Thesis"
       url: "https://nbi.ku.dk/english/theses/phd-theses/rajeeb-sharma/Rajeeb-Sharma.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      #icon: "hero/arrow-down-tray"
+  - degree: "MS in Astrophysics"
+    institution: "University of Oklahoma"
+    start: "2016-08-01"
+    end: "2019-07-31"
+    button:
+      text: "Read Thesis"
+      url: "shareok.org/items/55123f4a-4abe-43e0-adb7-6bcea15d477d/full"
+  - degree: "BS in Physics"
+    institution: "Southeastern Louisiana University'
+    start: "2012-08-17"
+    end: "2016-05-15"
 
 experience:
   - role: Senior AI Research Scientist
