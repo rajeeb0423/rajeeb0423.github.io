@@ -66,11 +66,11 @@ education:
     end: "2016-05-15"
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: PhD Research Fellow
+    org: Niels Bohr Institute, University of Copenhagen
+    start: 2021-07-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Leading research on star and planet formation in embedded systems. Associate researcher on the eDisk ALMA Large Program.
     button:
       text: View portfolio
       url: /
