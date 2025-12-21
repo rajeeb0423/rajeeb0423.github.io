@@ -46,9 +46,9 @@ education:
     institution: "Niels Bohr Institute, University of Copenhagen"
     start: "2021-07-01"
     end: "2025-02-05"
-    summary: '''Thesis title: _Unveiling the Early Stages of Star and Planet Formation: Observational Insights From Studying Class 0 and I Protostars_. \n
+    summary: "Thesis title: _Unveiling the Early Stages of Star and Planet Formation: Observational Insights From Studying Class 0 and I Protostars_. \n
               Supervised by [Prof. Jes K. Jørgensen](https://researchprofiles.ku.dk/en/persons/jes-kristian-j%C3%B8rgensen/). \n 
-              Published 2 first-author papers and 15+ co-author papers working on the eDisk program.\n'''
+              Published 2 first-author papers and 15+ co-author papers working on the eDisk program.\n"
     button:
       text: "Read Thesis"
       url: "https://nbi.ku.dk/english/theses/phd-theses/rajeeb-sharma/Rajeeb-Sharma.pdf"
