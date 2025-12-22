@@ -1,11 +1,8 @@
 ---
-title: "An example journal article"
+title: "Early Planet Formation in Embedded Disks (eDisk): XX. Constraining the chemical tracers of young protostellar sources"
 authors:
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Jes K. Jørgensen
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +24,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
