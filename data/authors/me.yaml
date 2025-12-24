@@ -39,6 +39,7 @@ interests:
 education:
   - degree: "PhD in Astrophysics"
     institution: "Niels Bohr Institute, University of Copenhagen"
+    date_format: 'January 2006'
     start: "2021-07-01"
     end: "2025-02-05"
     summary: "Thesis title: _Unveiling the Early Stages of Star and Planet Formation: Observational Insights From Studying Class 0 and I Protostars_.\n 
@@ -51,6 +52,7 @@ education:
       url: "https://nbi.ku.dk/english/theses/phd-theses/rajeeb-sharma/Rajeeb-Sharma.pdf"
   - degree: "MS in Astrophysics"
     institution: "University of Oklahoma"
+    date_format: 'January 2006'
     start: "2016-08-01"
     end: "2019-07-31"
     summary: "Thesis title: _Identifying the Chemical Impact and the Mechanism of an Accretion Outburst on a Class 0 Protostar_.\n 
@@ -63,6 +65,7 @@ education:
       url: "https://shareok.org/items/55123f4a-4abe-43e0-adb7-6bcea15d477d"
   - degree: "BS in Physics"
     institution: "Southeastern Louisiana University"
+    date_format: 'January 2006'
     start: "2012-08-17"
     end: "2016-05-15"
 experience:
@@ -79,6 +82,17 @@ experience:
     start: "2019-06-01"
     end: "2019-12-31"
     summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Graduate Research Assistant"
+    org: "University of Oklahoma"
+    start: "2019-06-01"
+    end: "2019-12-31"
+    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Undergraduate Research Assistant"
+    org: "Southeastern Louisiana University"
+    start: "2019-06-01"
+    end: "2019-12-31"
+    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+
 skills:
   - name: "Technical Skills"
     items:
