@@ -15,9 +15,9 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -25,8 +25,8 @@ sections:
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        image: eDisk_img.jpg
-          #filename:
+        image:
+          filename: eDisk_img.jpg
 
       # Name heading sizing to accommodate long or short names
       name:
