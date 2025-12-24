@@ -1,6 +1,8 @@
 schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
+design:
+  date_format: 'January 2006'
 name:
   display: "Rajeeb Sharma, PhD"
   given: "Rajeeb"
@@ -51,6 +53,11 @@ education:
     institution: "University of Oklahoma"
     start: "2016-08-01"
     end: "2019-07-31"
+    summary: "Thesis title: _Identifying the Chemical Impact and the Mechanism of an Accretion Outburst on a Class 0 Protostar_.\n 
+
+      \ Supervised by [Dr. John J. Tobin](https://www.cv.nrao.edu/~jtobin/).\n 
+
+      \ Published 1 first-author paper.\n"
     button:
       text: "Read Thesis"
       url: "https://shareok.org/items/55123f4a-4abe-43e0-adb7-6bcea15d477d"
