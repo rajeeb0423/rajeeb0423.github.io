@@ -59,7 +59,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: First Author Publications
       text: ''
       filters:
         folders:
