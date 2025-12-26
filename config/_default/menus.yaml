@@ -8,7 +8,7 @@ main:
     identifier: v483Ack7
     url: /
     weight: 10
-  - name: Papers
+  - name: Publications
     identifier: l2P1tvwy
     url: /#papers
     weight: 20
