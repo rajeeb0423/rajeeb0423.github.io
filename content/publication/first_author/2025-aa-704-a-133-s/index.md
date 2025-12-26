@@ -38,4 +38,5 @@ links:
   url: https://www.aanda.org/articles/aa/full_html/2025/12/aa53721-25/aa53721-25.html
 - name: arXiv
   url: https://arxiv.org/abs/2509.19158 
+profile: false
 ---
