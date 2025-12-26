@@ -63,7 +63,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/first_author
+          - publication/first_author
         exclude_featured: false
     design:
       view: citation
@@ -73,7 +73,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/co_author
+          - publication/co_author
         exclude_featured: false
     design:
       view: citation
