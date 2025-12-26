@@ -30,6 +30,7 @@ publication_types:
 - article-journal
 publication: '*apj*'
 doi: 10.3847/1538-4357/ace35c
+featured: true
 tags:
 - Protostars
 - Young stellar objects
@@ -42,6 +43,10 @@ tags:
 - Astrophysics - Earth and Planetary Astrophysics
 - Astrophysics - Solar and Stellar Astrophysics
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023ApJ...954...69S/abstract
+- name: Publisher
+  url: https://ui.adsabs.harvard.edu/link_gateway/2023ApJ...954...69S/PUB_HTML
 - name: arXiv
   url: https://arxiv.org/abs/2309.00443
 ---

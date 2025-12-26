@@ -52,7 +52,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: article-grid
@@ -63,7 +63,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publications/first_author
         exclude_featured: false
     design:
       view: citation
@@ -73,7 +73,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publications/co_author
         exclude_featured: false
     design:
       view: citation

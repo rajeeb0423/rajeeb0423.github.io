@@ -21,8 +21,9 @@ date: '2025-12-01'
 publishDate: '2025-12-24T10:29:14.020887Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/202553721
+featured: true
 tags:
 - astrochemistry
 - protoplanetary disks
@@ -31,6 +32,10 @@ tags:
 - Earth and Planetary Astrophysics
 - Solar and Stellar Astrophysics
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2025A&A...704A.133S/abstract
+- name: Publisher
+  url: https://www.aanda.org/articles/aa/full_html/2025/12/aa53721-25/aa53721-25.html
 - name: arXiv
-  url: https://arxiv.org/abs/2509.19158
+  url: https://arxiv.org/abs/2509.19158 
 ---
