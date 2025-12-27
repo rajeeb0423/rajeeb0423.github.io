@@ -36,10 +36,6 @@ tags:
 - Young stellar objects
 - Protoplanetary disks
 - Interstellar medium
-- '1302'
-- '1834'
-- '1300'
-- '847'
 - Astrophysics - Earth and Planetary Astrophysics
 - Astrophysics - Solar and Stellar Astrophysics
 links:
@@ -49,4 +45,5 @@ links:
   url: https://ui.adsabs.harvard.edu/link_gateway/2023ApJ...954...69S/PUB_HTML
 - name: arXiv
   url: https://arxiv.org/abs/2309.00443
+profile: false
 ---

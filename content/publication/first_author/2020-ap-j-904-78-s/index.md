@@ -20,12 +20,14 @@ tags:
 - Protostars
 - Interstellar molecules
 - Circumstellar disks
-- '1302'
-- '849'
-- '235'
 - Astrophysics - Solar and Stellar Astrophysics
 - Astrophysics - Astrophysics of Galaxies
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2010.05939
+- name: Publisher
+  url: https://ui.adsabs.harvard.edu/link_gateway/2020ApJ...904...78S/PUB_HTML
+- name: arXiv
+  url: https://arxiv.org/abs/2010.05939
+profile: false
 ---
