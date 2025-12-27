@@ -63,7 +63,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication/first_author
+          - first_author
         exclude_featured: false
     design:
       view: citation
